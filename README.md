@@ -16,4 +16,6 @@ Run Tailwind CLI
 npm run watch
 ```
 
+## Demo
+
 ![Project preview](images/clipboard.png)
